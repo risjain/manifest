@@ -524,7 +524,7 @@
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
 
   
-  <!-- Removing the Non-Angler Files -->
+  <!-- Removing the Non-Angler Files - @Kantjer -->
   <remove-project path="scripts" name="scripts" />
   <remove-project path="manifest" name="pnmod-n_manifest" />
 
