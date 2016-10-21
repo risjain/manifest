@@ -525,7 +525,7 @@
 
   
   <!-- Removing the Non-Angler Files - @Kantjer -->
-  <remove-project path="scripts" name="scripts" />
+  <!--<remove-project path="scripts" name="scripts" /> -->
   <remove-project path="manifest" name="pnmod-n_manifest" />
 
   <remove-project path="device/common" name="device/common" groups="pdk-cw-fs,pdk-fs" />
